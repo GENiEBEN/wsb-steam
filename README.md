@@ -14,4 +14,4 @@ NOTE: If you do not use the default installation path for Steam under your host 
 
 # Customise
   
-Apps installer is setup by ninite.com but you can add more under _Settings.bat or create a new installer on Ninite.
+Apps installer is setup by ninite.com but you can add more under `_Settings.bat` or create a new installer on Ninite and replace the `_Apps.exe` installer.
